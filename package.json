@@ -1,20 +1,19 @@
 {
-  "name": "logogen",
+  "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Command line tool to generate an svg logo and write it to file.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "jest"
   },
+  "private": true,
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "inquirer": "^9.2.10"
+    "inquirer": "^8.2.4"
   },
   "devDependencies": {
-    "jest": "^29.6.4"
+    "jest": "^28.1.3"
   }
 }

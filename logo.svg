@@ -1,0 +1,4 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+          <rect width="300" height="200" fill="red" />
+          <text x="135" y="110" font-size="20" fill="blue">REE</text>
+        </svg>

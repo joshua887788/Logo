@@ -11,7 +11,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.6"
   },
   "devDependencies": {
     "jest": "^28.1.3"
